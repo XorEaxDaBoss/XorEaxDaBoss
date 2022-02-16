@@ -10,7 +10,8 @@
 - 🔭 I’m currently working on **AC bypass**
 
 <h3 align="left">Connect with me:</h3>
-dasdasdd
+Discord: XorEaxDaBoss#9033
+E-Mail: xoreaxdaboss@protonmail.com
 <p align="left">
 </p>
 
