@@ -26,7 +26,7 @@
    <img alt="Github" src="https://img.shields.io/github/followers/developedbyed?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000%27"></a>   
   
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=andrew&row=2&column=8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=donnemartin&row=2&column=8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
   
 
@@ -42,7 +42,9 @@
   <img alt="C" src="https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=00648B"></a>
   <img alt="Python" src="https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=E9D54D"></a>
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D"></a>
+  <img alt="CMake" src="https://img.shields.io/badge/-CMake-090909?style=for-the-badge&logo=CMake&logoColor=00648B"></a>
   <img alt="Sql" src="https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B"></a> 
+  <img alt="Shell" src="https://img.shields.io/badge/-Shell-090909?style=for-the-badge&logo=Shell&logoColor=00648B"></a>
   <img alt="Mongo" src="https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB&logoColor=00648B"></a> 
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin&logoColor=00648B"></a> 
 </p>
