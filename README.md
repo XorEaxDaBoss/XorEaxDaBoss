@@ -5,7 +5,7 @@
 <p align="center">
 
 <p align="center">
-    <a href="https://steamcommunity.com/profiles/76561199040812756/">
+    <a href="https://steamcommunity.com/id/x1lvrr">
    <img alt="Discord" src="https://img.shields.io/badge/XorEax-DaBoss-blueviolet"></a>
   
 
@@ -21,15 +21,13 @@
    <img alt="Github" src="https://img.shields.io/github/followers/danielkrupinski?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000%27"></a>   
   
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=8&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=andrew&row=2&column=8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
   
 
   
-</p>
-<p align="center">
-<img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="Your alt what" width="300" align/>
-</p>
+
+<p><p align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=silverangelo92&amp;count=1" alt="Spotify recently played"></p>
 
 
 <h2 align="center">Programming languages that I mainly use.</h2>
