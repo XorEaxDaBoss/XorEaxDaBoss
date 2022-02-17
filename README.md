@@ -14,7 +14,7 @@ Discord: XorEaxDaBoss#9033
 E-Mail: XorEaxDaBoss@protonmail.com
 
 For any requests contact me on Discord.
-Discord Server: https://discord.gg/BMQUFAVtSh
+Discord Server: https://discord.gg/jUFczbxX9J
 <p align="left">
 </p>
 
