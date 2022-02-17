@@ -18,7 +18,7 @@
     <a href="https://discord.gg/jUFczbxX9J">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-XorEaxDaBoss%239033-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
   <a href="https://github.com/XorEaxDaBoss">
-   <img alt="Github" src="https://img.shields.io/github/followers/danielkrupinski?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000%27"></a>   
+   <img alt="Github" src="https://img.shields.io/github/followers/developedbyed?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000%27"></a>   
   
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=andrew&row=2&column=8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
@@ -53,7 +53,7 @@
   
 
 <h2 align="center">Contact me</h2>
-<h4 align="center">Seller Source code & Cheating Private</h4>
+<h4 align="center">Let's talk more about coding</h4>
 <p align="center">Discord: XorEaxDaBoss#9033</p>
 <p align="center">E-Mail: XorEaxDaBoss@protonmail.com</p>
 <h4 align="center">For any requests, Join</h4>
