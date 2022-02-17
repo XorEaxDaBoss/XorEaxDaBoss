@@ -26,5 +26,3 @@ Discord Server: https://discord.gg/BMQUFAVtSh
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/xoreaxdaboss"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xoreaxdaboss" /></a><a href="https://ko-fi.com/xoreaxdaboss"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="xoreaxdaboss" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xoreaxdaboss&show_icons=true&locale=en&layout=compact" alt="xoreaxdaboss" /></p>
