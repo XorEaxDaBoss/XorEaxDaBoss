@@ -1,25 +1,80 @@
-<h1 align="center">Hi 👋, I'm XOREAX </h1>
-<h3 align="center">A simple Software Developer</h3>
-</// align="left"> <///img src="https://i.postimg.cc/9fjTnzr1/Untitled734-20211229202115-1.png" alt="xoreaxdaboss" /> </p>
+<h2 align="center">
+  
 
-<img src="https://dcbadge.vercel.app/api/shield/893038757404622868"  /> <p align="left"> <img src="https://komarev.com/ghpvc/?username=xoreaxdaboss&label=Profile%20views&color=0e75b6&style=flat" alt="xoreaxdaboss" /> </p>
-<img src="https://github-readme-stats.vercel.app/api?username=xoreaxdaboss&theme=dark&show_icons=true" />
-<p><a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=silverangelo92&amp;cover_image=true&amp;theme=default" alt="spotify-github-profile"></a></p>
+  
+<p align="center">
 
-- 🔭 I’m currently working on some Cheetos
+<p align="center">
+    <a href="https://steamcommunity.com/profiles/76561199040812756/">
+   <img alt="Discord" src="https://img.shields.io/badge/XorEax-DaBoss-blueviolet"></a>
+  
 
-<h3 align="left">Connect with me:</h3>
-Discord: XorEaxDaBoss#9033
+ 
+  
+  
+  
+</p>
+<p align="center">
+    <a href="https://discord.gg/jUFczbxX9J">
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-XorEaxDaBoss%239033-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
+  <a href="https://github.com/XorEaxDaBoss">
+   <img alt="Github" src="https://img.shields.io/github/followers/danielkrupinski?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000%27"></a>   
+  
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=8&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
 
-E-Mail: XorEaxDaBoss@protonmail.com
+  
 
-For any requests contact me on Discord.
-Discord Server: https://discord.gg/jUFczbxX9J
-<p align="left">
+  
+</p>
+<p align="center">
+<img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="Your alt what" width="300" align/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/xoreaxdaboss"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xoreaxdaboss" /></a><a href="https://ko-fi.com/xoreaxdaboss"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="xoreaxdaboss" /></a></p><br><br>
+<h2 align="center">Programming languages that I mainly use.</h2>
+<p align="center">
+  <img alt="c++" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC"></a> 
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D"></a> 
+  <img alt="c#" src="https://img.shields.io/badge/-csharp-090909?style=for-the-badge&logo=csharp&logoColor=00648B"></a>    
+  <img alt="Sql" src="https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B"></a> 
+  <img alt="Mongo" src="https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB&logoColor=00648B"></a> 
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin&logoColor=00648B"></a> 
+</p>
+
+
+
+<h2 align="center">My github profile stastictics.</h2>
+
+<p align="center">
+    <a href="https://github.com/danielkrupinski">
+        <img title="XorEaxDaBoss's stats" alt="SarnaxLii's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=danielkrupinski&theme=dark&hide_border=true&stroke=f53b3b"/>
+    </a>
+</p><br>
+<a href="https://github.com/XorEaxDaBoss"><img alt="XorEaxDaBoss's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=XorEaxDaBoss&bg_color=0D1117&color=98ff98&line=eca15b&point=FFFFFF&hide_border=true" /></a>
+  
+
+<h2 align="center">Contact me</h2>
+<h4 align="center">Seller Source code & Cheating Private</h4>
+<p align="center">Discord: XorEaxDaBoss#9033</p>
+<p align="center">E-Mail: XorEaxDaBoss@protonmail.com</p>
+<h4 align="center">For any requests, Join</h4>
+<p align="center">Discord Server: https://discord.gg/YV9Ut3q4Yf
+</pre><br>
+
+
+
+
+<h2 align="center">Discord Profile</h2><br>
+  <p align="center">
+    <a href="https://discord.gg/jUFczbxX9J">
+        <img title="XorEaxDaBoss discord" alt="SarnaxLii's discord" src="https://discord.c99.nl/widget/theme-4/893038757404622868.png"/>
+    </a>
+</p>
+
+<!--
+**SarnaxLii/SarnaxLii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Hello
+
+.
+
+
