@@ -57,8 +57,12 @@
     <a href="https://github.com/danielkrupinski">
         <img title="XorEaxDaBoss's stats" alt="SarnaxLii's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=danielkrupinski&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
-</p><br>
-<a href="https://github.com/XorEaxDaBoss"><img alt="XorEaxDaBoss's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=XorEaxDaBoss&bg_color=0D1117&color=98ff98&line=eca15b&point=FFFFFF&hide_border=true" /></a>
+    </a>
+    <a href="https://github.com/meokisama">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosra&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+    </a>
+</p>
+</p>
   
 
 <h2 align="center">Contact me</h2>
