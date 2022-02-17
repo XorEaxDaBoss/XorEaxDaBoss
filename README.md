@@ -2,11 +2,8 @@
 <h3 align="center">A young Software Developer from the Philippines</h3>
 </// align="left"> <///img src="https://i.postimg.cc/9fjTnzr1/Untitled734-20211229202115-1.png" alt="xoreaxdaboss" /> </p>
 
-<img src="https://dcbadge.vercel.app/api/shield/893038757404622868"  />
+<img src="https://dcbadge.vercel.app/api/shield/893038757404622868"  /> <p align="left"> <img src="https://komarev.com/ghpvc/?username=xoreaxdaboss&label=Profile%20views&color=0e75b6&style=flat" alt="xoreaxdaboss" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=xoreaxdaboss&theme=dark&show_icons=true" />
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xoreaxdaboss&label=Profile%20views&color=0e75b6&style=flat" alt="xoreaxdaboss" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - 🔭 I’m currently working on AC bypass
