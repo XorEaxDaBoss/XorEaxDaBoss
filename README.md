@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm XOREAX </h1>
-<h3 align="center">A young Software Developer from the Philippines</h3>
+<h3 align="center">A simple Software Developer</h3>
 </// align="left"> <///img src="https://i.postimg.cc/9fjTnzr1/Untitled734-20211229202115-1.png" alt="xoreaxdaboss" /> </p>
 
 <img src="https://dcbadge.vercel.app/api/shield/893038757404622868"  /> <p align="left"> <img src="https://komarev.com/ghpvc/?username=xoreaxdaboss&label=Profile%20views&color=0e75b6&style=flat" alt="xoreaxdaboss" /> </p>
