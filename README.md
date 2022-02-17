@@ -4,8 +4,8 @@
 
 <img src="https://dcbadge.vercel.app/api/shield/893038757404622868"  /> <p align="left"> <img src="https://komarev.com/ghpvc/?username=xoreaxdaboss&label=Profile%20views&color=0e75b6&style=flat" alt="xoreaxdaboss" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=xoreaxdaboss&theme=dark&show_icons=true" />
+<p><a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=silverangelo92&amp;cover_image=true&amp;theme=default" alt="spotify-github-profile"></a></p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - 🔭 I’m currently working on AC bypass
 
 <h3 align="left">Connect with me:</h3>
