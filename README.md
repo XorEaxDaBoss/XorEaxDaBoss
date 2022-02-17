@@ -1,17 +1,23 @@
-<h1 align="center">Hi 👋, I'm Silver Angelo S. Bonto</h1>
-<h3 align="center">A hardworking Developer from the Philippines</h3>
+<h1 align="center">Hi 👋, I'm XOREAX </h1>
+<h3 align="center">A young Software Developer from the Philippines</h3>
+</// align="left"> <///img src="https://i.postimg.cc/9fjTnzr1/Untitled734-20211229202115-1.png" alt="xoreaxdaboss" /> </p>
+
+<img src="https://dcbadge.vercel.app/api/shield/893038757404622868"  />
+<img src="https://github-readme-stats.vercel.app/api?username=xoreaxdaboss&theme=dark&show_icons=true" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xoreaxdaboss&label=Profile%20views&color=0e75b6&style=flat" alt="xoreaxdaboss" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xoreaxdaboss" alt="xoreaxdaboss" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **AC bypass**
+- 🔭 I’m currently working on AC bypass
 
 <h3 align="left">Connect with me:</h3>
 Discord: XorEaxDaBoss#9033
-E-Mail: xoreaxdaboss@protonmail.com
+
+E-Mail: XorEaxDaBoss@protonmail.com
+
+For any requests contact me on Discord.
+Discord Server: https://discord.gg/BMQUFAVtSh
 <p align="left">
 </p>
 
