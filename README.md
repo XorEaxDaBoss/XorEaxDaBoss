@@ -6,7 +6,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=xoreaxdaboss&theme=dark&show_icons=true" />
 <p><a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=silverangelo92&amp;cover_image=true&amp;theme=default" alt="spotify-github-profile"></a></p>
 
-- 🔭 I’m currently working on AC bypass
+- 🔭 I’m currently working on some Cheetos
 
 <h3 align="left">Connect with me:</h3>
 Discord: XorEaxDaBoss#9033
