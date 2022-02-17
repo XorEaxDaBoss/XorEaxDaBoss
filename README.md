@@ -26,7 +26,7 @@
    <img alt="Github" src="https://img.shields.io/github/followers/developedbyed?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000%27"></a>   
   
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=donnemartin&row=2&column=8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=donnemartin&row=2&no-bg=true&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
   
 
@@ -54,11 +54,11 @@
 <h2 align="center">My github profile stastictics.</h2>
 
 <p align="center">
-    <a href="https://github.com/danielkrupinski">
+    <a href="https://github.com/XorEaxDaBoss">
         <img title="XorEaxDaBoss's stats" alt="SarnaxLii's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=danielkrupinski&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
     </a>
-    <a href="https://github.com/meokisama">
+    <a href="https://github.com/XorEaxDaBoss">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosra&layout=compact&theme=dark&hide_border=true&langs_count=8" />
     </a>
 </p>
@@ -70,7 +70,7 @@
 <p align="center">Discord: XorEaxDaBoss#9033</p>
 <p align="center">E-Mail: XorEaxDaBoss@protonmail.com</p>
 <h4 align="center">For any requests, Join</h4>
-<p align="center">Discord Server: https://discord.gg/YV9Ut3q4Yf
+<p align="center">Discord Server: https://discord.gg/jUFczbxX9J
 </pre><br>
 
 
