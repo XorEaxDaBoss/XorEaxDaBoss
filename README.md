@@ -32,7 +32,8 @@
 
   
 
-<p><p align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=silverangelo92&amp;count=1" alt="Spotify recently played"></p>
+<p><a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=silverangelo92&amp;cover_image=true&amp;theme=novatorem&amp;bar_color=53b14f&amp;bar_color_cover=false" alt="spotify-github-profile"></a></p>
+
 
 
 <h2 align="center">Programming languages that I mainly use.</h2>
