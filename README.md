@@ -23,10 +23,10 @@
     <a href="https://discord.gg/jUFczbxX9J">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-XorEaxDaBoss%239033-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
   <a href="https://github.com/XorEaxDaBoss">
-   <img alt="Github" src="https://img.shields.io/github/followers/donnemartin?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000%27"></a>   
+   <img alt="Github" src="https://img.shields.io/github/followers/sindresorhus?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000%27"></a>   
   
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=donnemartin&row=2&no-bg=true&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sindresorhus&row=2&no-bg=true&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
   
 
