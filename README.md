@@ -79,7 +79,7 @@
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.gg/jUFczbxX9J">
-        <img title="XorEaxDaBoss discord" alt="SarnaxLii's discord" src="https://discord.c99.nl/widget/theme-4/893038757404622868.png"/>
+        <img title="XorEaxDaBoss discord" alt="XorEaxDaBoss's discord" src="https://discord.c99.nl/widget/theme-1/893038757404622868.png"/>
     </a>
 </p>
 
