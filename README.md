@@ -55,7 +55,7 @@
 
 <p align="center">
     <a href="https://github.com/XorEaxDaBoss">
-        <img title="XorEaxDaBoss's stats" alt="SarnaxLii's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=danielkrupinski&theme=dark&hide_border=true&stroke=f53b3b"/>
+        <img title="XorEaxDaBoss's stats" alt="SarnaxLii's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sindresorhus&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
     </a>
     <a href="https://github.com/XorEaxDaBoss">
@@ -84,7 +84,7 @@
 </p>
 
 <!--
-**SarnaxLii/SarnaxLii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Hello
+**XorEaxDaBoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Hello
 
 .
 
