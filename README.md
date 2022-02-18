@@ -10,7 +10,7 @@
 <p align="center">
 
 <p align="center">
-    <a href="https://steamcommunity.com/id/x1lvrr">
+    <a href="https://steamcommunity.com/profiles/76561198244405074/">
    <img alt="Discord" src="https://img.shields.io/badge/XorEax-DaBoss-blueviolet"></a>
   
 
