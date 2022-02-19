@@ -1,5 +1,5 @@
 <h2 align="center">
-<p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://raw.githubusercontent.com/samyk/samyk/main/.../c.svg" alt="SVG Banners"></a></p>
+<p><a href="https://svg-banners.vercel.app/api?type=rainbow&amp;text1=XorEaxDaBoss%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&amp;width=800&amp;height=400" alt="SVG Banners"></a></p>
 
 
 
