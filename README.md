@@ -1,92 +1,64 @@
-<h2 align="center">
-<p><a href="https://github.com/Akshay090/svg-banners"><img src="https://svg-banners.vercel.app/api?type=rainbow&amp;text1=XorEaxDaBoss👨🏻‍💻&amp;width=800&amp;height=400" alt="SVG Banners"></a></p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Code+Latin&duration=3500&pause=1000&color=3BF7C9&v&width=435&lines=I'm+XorEax;I'm+a+Software+Developer;I'm+a+Web+Developer;I'm+a+Cybersecurity+Expert;I'm+a+Ethical+Hacker)](https://git.io/typing-svg)
 
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sasb07/)](https://www.linkedin.com/in/sasb07/)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/silverangeloo)](https://www.facebook.com/silverangeloo)
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/xoreax)](https://ko-fi.com/xoreax)
 
 
+I'm a simple guy who loves creating apps that make tasks easier. I like to learn something new every day so I took various online courses and got some specialized and professional certificates. I'm a **Self-Taught Software Developer | Web Developer | Cybersecurity Analyst** and currently doing freelancing to fund my school expenses.
 
+- 🌱 On the way of learning *Advanced Machine Learning* & *Data Science*.
+- 🔥 I mostly do freelancing at [facebook.com](https://www.facebook.com/silverangeloo) and [raket.ph](https://www.raket.ph/xoreax).
 
+Technologies I've been learning and using so far :
 
-  
-<p align="center">
+- Programming languages : <br />
+     ![Python](https://img.shields.io/badge/-Python-eee?style=flat-square&logo=python)&nbsp;
+     ![C++](https://img.shields.io/badge/-C++-eee?style=flat-square&logo=C%2B%2B&logoColor=00599C)&nbsp;
+     ![C#](https://img.shields.io/badge/-C%23-eee?style=flat-square&logo=C%2B%2B&logoColor=00599C)&nbsp;
+     ![Java](http://img.shields.io/badge/-Java-eee?style=flat-square&logo=openjdk&logoColor=4951aa)
+     ![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)
+     ![JavaScript](http://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=f0db4f)
+     ![TypeScript](http://img.shields.io/badge/-TypeScript-eee?style=flat-square&logo=typescript&logoColor=3178C6)
+     ![Lua](http://img.shields.io/badge/-Lua-eee?style=flat-square&logo=lua&logoColor=00007D)
+- Machine Learning / Deep Learning frameworks : <br />
+     ![Hugging Face API](https://img.shields.io/badge/-🤗%20%20Hugging%20Face%20API-eee?style=flat-square&logo=🤗&logoColor=FFD21E)
+     ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+     ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00)
+     ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+- Frontend Development : <br />
+    ![11ty](http://img.shields.io/badge/-11ty-eee?style=flat-square&logo=eleventy&logoColor=000)
+    ![Angular](https://img.shields.io/badge/-Angular-EEE?style=flat-square&logo=angular&logoColor=DD0031)
+    ![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=563D7C)
+    ![Gatsby](https://img.shields.io/badge/-Gabtsy-eee?style=flat-square&logo=Gatsby&logoColor=663399)
+    ![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)
+    ![Jekyll](http://img.shields.io/badge/-Jekyll-eee?style=flat-square&logo=jekyll&logoColor=a83232)
+    ![Next.js](http://img.shields.io/badge/-Next.js-eee?style=flat-square&logo=next.js&logoColor=000)
+    ![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)
+    ![RxJS](https://img.shields.io/badge/-RxJS-eee?style=flat-square&logo=reactivex&logoColor=B7178C)
+    ![Sass](https://img.shields.io/badge/-SASS-eee?style=flat-square&logo=sass&logoColor=CC6699)
+    ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-eee?style=flat-square&logo=tailwind-css&logoColor=06B6D4)
+    [![Wordpress](http://img.shields.io/badge/-Wordpress-eee?style=flat-square&logo=wordpress&logoColor=21759B)](https://dinhanhthi.com/tags/wordpress/)
+- Backend Development : <br />
+    ![Airflow](https://img.shields.io/badge/-Airflow-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAACAVBMVEXoPibmXEHuYkYAxtMAx9TwTTP/Sx3hOCCXjIDiOCHhNx8InPAAxv9hdaQGkuoEkPgCgvEBydYG0+AQyNQJzLEd8v8Mz9wAqkUAq0UCsIYArEUBeeoE5SUCvk4BeuoBeusCv08Cuk0AsEfgOCDjOSHjOSHjOSHiOSHhOCHfOCAAx9MAxdLfOCDjOSHkOSHjOSHjOyMAxtMAx9QAxtPeNyDjOSHkOSHnQin3aU0Ax9UAx9QAxtPiNBviOSHaPyv8bVDdgGcAx9QAx9QAxtMgqug7m8+/incIxNAAxdIKqPgKrf0Ax9QAxdEBfewCg/AAxtMAws4BeekBfO0CytcBxdIBe+sBfO4P3esO2eYBe+wBgOcDw3gN1MUP2dgBe+0BfO4Be+0EzWUD0FYBr0sArEUAp0IBfO0BfO4Be+0BdukDylQAskgArUYArEYAqUQBe+0Be+wBeOYArUYArUYArUYArUYArUYBeuoBeegAq0UArEUArEYArEYArEYArEYArEXkOSHlOSAAx9TkOCDoQimcY2vqRSz/cFEHtP8hquqxVlX2UDTjfmVOrq4Ax9UCg/ADhvECk/pJgK+ffnE4trkBfO4Be+4BlMcIrXoOw7AE1OMDzNkCy9gCnbgEz2QBvkkEunAP3N8Q4O8E1FUBtEkArEYGvn4AskgArUYArUX///+CCWXoAAAAgHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAInj2sKaWxYYiBOY+MM9EKDbDZP93UQOm9ALjfvfU5X+t1j09PyOS+T1UUPiuxIZyNg3XvnaPZz58fBLxPuFT9/6jQvb/osIRN39kw3ikAo8wPaYFH8QFFSRudHaf4Ujfm8AAACdSURBVAjXJcyxSgIBGADg/6uhQgjfIXDSwQgOqjNDAsFJRKLF0dWxN2qICBH06CQisMBAcInewqlZHW7+4HMG/EGFql7EK7+2NRzV6Owis65rvzlxTuvAHM1PJRLN7aEPV/Ht1KVG0f0vKaduwSZiRVdLFJp513cTx2Aq5+E6vrQxk2GQ/OCOnAlDjLvSiAUvRjzT5yJixaMnuC/yPQUrJDDTZ2+sAAAAAElFTkSuQmCC&logoColor=E43921)
+    ![Docker](https://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker&logoColor=2496ed)
+    ![Firebase](https://img.shields.io/badge/-Firebase-EEE?style=flat-square&logo=firebase&logoColor=FFCA28)
+    ![Google APIs](http://img.shields.io/badge/-Google%20APIs-eee?style=flat-square&logo=google&logoColor=4285F4)
+    ![GraphQL](https://img.shields.io/badge/-GraphQL-eee?style=flat-square&logo=graphql&logoColor=E10098)
+    ![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=mongodb&logoColor=47A248)
+    ![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)
+    ![NestJS](https://img.shields.io/badge/-NestJS-eee?style=flat-square&logo=nestjs&logoColor=E0234E)
+    ![NodeJS](http://img.shields.io/badge/-NodeJS-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)
+- Cybersecurity Tools : <br />
+    ![Nmap](http://img.shields.io/badge/-Nmap-eee?style=flat-square&logo=nmap&logoColor=F05032)
+    ![Wireshark](http://img.shields.io/badge/-Wireshark-eee?style=flat-square&logo=wireshark&logoColor=3a76f0)
+    ![Chronicle](http://img.shields.io/badge/-Chronicle-eee?style=flat-square&logo=googlechronicle&logoColor=4285F4)
+    ![Splunk](http://img.shields.io/badge/-Splunk-eee?style=flat-square&logo=splunk&logoColor=000000)
+    ![Metasploit](http://img.shields.io/badge/-Metasploit-eee?style=flat-square&logo=metasploit&logoColor=2596CD)
+    ![Kali Linux](http://img.shields.io/badge/-Kali%20Linux-eee?style=flat-square&logo=kalilinux&logoColor=2596CD)
+    ![Burp Suite](http://img.shields.io/badge/-Burp%20Suite-eee?style=flat-square&logo=burpsuite&logoColor=ff6633)
 
-<p align="center">
-    <a href="https://steamcommunity.com/profiles/76561198244405074/">
-   <img alt="Discord" src="https://img.shields.io/badge/XorEax-DaBoss-blueviolet"></a>
-  
-
- 
-  
-  
-  
-</p>
-<p align="center">
-    <a href="https://discord.gg/jUFczbxX9J">
-   <img alt="Discord" src="https://img.shields.io/badge/Discord-XorEaxDaBoss%239033-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
-  <a href="https://github.com/XorEaxDaBoss">
-   <img alt="Github" src="https://img.shields.io/github/followers/sindresorhus?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000%27"></a>   
-  
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=sindresorhus&row=2&no-bg=true&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
-  
-
-  
-
-<p><a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=silverangelo92&amp;cover_image=true&amp;theme=novatorem&amp;bar_color=53b14f&amp;bar_color_cover=false" alt="spotify-github-profile"></a></p>
-
-
-
-<h2 align="center">Programming languages that I mainly use.</h2>
-<p align="center">
-  <img alt="c++" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC"></a>  
-  <img alt="c#" src="https://img.shields.io/badge/-csharp-090909?style=for-the-badge&logo=csharp&logoColor=00648B"></a>    
-  <img alt="C" src="https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=00648B"></a>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=E9D54D"></a>
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D"></a>
-  <img alt="CMake" src="https://img.shields.io/badge/-CMake-090909?style=for-the-badge&logo=CMake&logoColor=00648B"></a>
-  <img alt="Sql" src="https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B"></a> 
-  <img alt="Shell" src="https://img.shields.io/badge/-Shell-090909?style=for-the-badge&logo=Shell&logoColor=00648B"></a>
-  <img alt="Mongo" src="https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB&logoColor=00648B"></a> 
-  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin&logoColor=00648B"></a> 
-</p>
-
-
-
-<h2 align="center">My github profile stastictics.</h2>
-
-<p align="center">
-    <a href="https://github.com/XorEaxDaBoss">
-        <img title="XorEaxDaBoss's stats" alt="SarnaxLii's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sindresorhus&theme=dark&hide_border=true&stroke=f53b3b"/>
-    </a>
-    </a>
-    <a href="https://github.com/XorEaxDaBoss">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosra&layout=compact&theme=dark&hide_border=true&langs_count=8" />
-    </a>
-</p>
-</p>
-  
-
-<h2 align="center">Contact me</h2>
-<h4 align="center">Let's talk more about coding</h4>
-<p align="center">Discord: XorEaxDaBoss#9033</p>
-<p align="center">E-Mail: XorEaxDaBoss@protonmail.com</p>
-<h4 align="center">For any requests, Join</h4>
-<p align="center">Discord Server: https://discord.gg/jUFczbxX9J
-</pre><br>
-
-
-
-
-<h2 align="center">Discord Profile</h2><br>
-  <p align="center">
-    <a href="https://discord.gg/jUFczbxX9J">
-        <img title="XorEaxDaBoss discord" alt="XorEaxDaBoss's discord" src="https://discord.c99.nl/widget/theme-4/893038757404622868.png"/>
-    </a>
-</p>
-
-<!--
-**XorEaxDaBoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Hello
 
 .
 
