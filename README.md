@@ -59,7 +59,3 @@ Technologies I've been learning and using so far :
     ![Kali Linux](http://img.shields.io/badge/-Kali%20Linux-eee?style=flat-square&logo=kalilinux&logoColor=2596CD)
     ![Burp Suite](http://img.shields.io/badge/-Burp%20Suite-eee?style=flat-square&logo=burpsuite&logoColor=ff6633)
 
-
-.
-
-
