@@ -9,7 +9,7 @@
 I'm a simple guy who loves creating apps that make tasks easier. I like to learn something new every day so I took various online courses and got some specialized and professional certificates. I'm a **Self-Taught Software Developer | Web Developer | Cybersecurity Analyst** and currently doing freelancing to fund my school expenses.
 
 - 🌱 On the way of learning *Advanced Machine Learning* & *Data Science*.
-- 🔥 I mostly do freelancing on [Facebook](https://www.facebook.com/silverangeloo) and [Raket.ph](https://www.raket.ph/xoreax).
+- 🔥 I mostly do freelancing on [Facebook](https://www.facebook.com/silverangeloo) and my developed [Telegram Bot](https://t.me/XorEaxTS_Bot).
 
 Technologies I've been learning and using so far :
 
